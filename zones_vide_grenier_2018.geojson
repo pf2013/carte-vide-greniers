@@ -1,0 +1,682 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/toilets-24-white.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.515743136405945,
+          48.25604488702739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        },
+        "description": "Parking Exposant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5164351463317873,
+          48.25624132714447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.512224078178406,
+          48.25462692415962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5126371383666992,
+          48.25477693720469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        },
+        "description": "Parking Exposant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5143269300460815,
+          48.25521268688719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        },
+        "description": "Parking Mairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5176796913146975,
+          48.25608060346844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24_1.png"
+        },
+        "description": "Parking Exposant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5153622627258303,
+          48.25809139885523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/parking-24.png",
+          "color": "SteelBlue"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5173457562923434,
+          48.256022564239046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconUrl": "/uploads/pictogram/restaurant-24_1.png"
+        },
+        "name": "Buvette / Snack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5159308910369873,
+          48.25607703182548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/theatre-24-white.png"
+        },
+        "name": "Manège"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5130019187927246,
+          48.254926949809644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "iconClass": "Default",
+          "iconUrl": "/uploads/pictogram/toilets-24-white.png"
+        },
+        "name": "WC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514498591423035,
+          48.255291264303565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "MediumSlateBlue"
+        },
+        "name": "zone 1 impair",
+        "description": "36 emplacements\nN° 101 à 171"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5146273374557495,
+              48.25519482836664
+            ],
+            [
+              -1.514471769332886,
+              48.25507696197446
+            ],
+            [
+              -1.5126103162765503,
+              48.25458763495606
+            ],
+            [
+              -1.5125566720962527,
+              48.25469478725834
+            ],
+            [
+              -1.5144181251525881,
+              48.25518054154569
+            ],
+            [
+              -1.5145415067672732,
+              48.25527340581044
+            ],
+            [
+              -1.5146273374557495,
+              48.25519482836664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Black"
+        },
+        "name": "zone 1 pair",
+        "description": "43 emplacements\nN° 134 à 218"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5126210451126099,
+              48.25455906097084
+            ],
+            [
+              -1.5126746892929077,
+              48.25446262365287
+            ],
+            [
+              -1.5145844221115115,
+              48.254962667031684
+            ],
+            [
+              -1.5147399902343752,
+              48.25508410539992
+            ],
+            [
+              -1.5146756172180176,
+              48.25519482836664
+            ],
+            [
+              -1.5145093202590945,
+              48.25506624683443
+            ],
+            [
+              -1.5126210451126099,
+              48.25455906097084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DeepPink"
+        },
+        "name": "zone 2 impair",
+        "description": "24 emplacements\nN° 53 à 99"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5154266357421877,
+              48.255773441259905
+            ],
+            [
+              -1.5146434307098389,
+              48.255209115183575
+            ],
+            [
+              -1.5145576000213625,
+              48.255291264303565
+            ],
+            [
+              -1.5152388811111452,
+              48.25578772791519
+            ],
+            [
+              -1.5154266357421877,
+              48.255773441259905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkSlateGrey"
+        },
+        "name": "zone 2 pair",
+        "description": "34 emplacements\nN°66 à 132"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.514745354652405,
+              48.25508053368732
+            ],
+            [
+              -1.5146756172180176,
+              48.25519482836664
+            ],
+            [
+              -1.5155607461929324,
+              48.255805586228675
+            ],
+            [
+              -1.5156090259552002,
+              48.255766297930776
+            ],
+            [
+              -1.51561439037323,
+              48.25568057790334
+            ],
+            [
+              -1.514745354652405,
+              48.25508053368732
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DarkOrange"
+        },
+        "name": "zone 3 impair",
+        "description": "26 emplacements\nN°1 à 51"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5168589353561404,
+              48.25604845867262
+            ],
+            [
+              -1.5156304836273193,
+              48.25587344776296
+            ],
+            [
+              -1.5154320001602175,
+              48.255773441259905
+            ],
+            [
+              -1.5152335166931155,
+              48.255794871241314
+            ],
+            [
+              -1.5153300762176514,
+              48.25586987610549
+            ],
+            [
+              -1.5156090259552002,
+              48.2559984556167
+            ],
+            [
+              -1.5166282653808594,
+              48.256148464637725
+            ],
+            [
+              -1.5168589353561404,
+              48.25604845867262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "ForestGreen"
+        },
+        "name": "zone 3 pair",
+        "description": "32 emplacements\nN° 2 à 64"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5167999267578127,
+              48.25589130604649
+            ],
+            [
+              -1.5169662237167358,
+              48.25598416902032
+            ],
+            [
+              -1.5168535709381106,
+              48.25601988550378
+            ],
+            [
+              -1.5161508321762087,
+              48.25592345094114
+            ],
+            [
+              -1.5156465768814087,
+              48.255855589473185
+            ],
+            [
+              -1.5155768394470217,
+              48.255819872874945
+            ],
+            [
+              -1.5156787633895876,
+              48.25573415293733
+            ],
+            [
+              -1.5167999267578127,
+              48.25589130604649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "LimeGreen",
+          "labelHover": false
+        },
+        "name": "zone 4 impair",
+        "description": "56 emplacements\nN° 301 à 411"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.516960859298706,
+              48.25600202726523
+            ],
+            [
+              -1.517068147659302,
+              48.25607703182548
+            ],
+            [
+              -1.516767740249634,
+              48.2567842122701
+            ],
+            [
+              -1.5164244174957278,
+              48.257477096753924
+            ],
+            [
+              -1.516242027282715,
+              48.257441381288416
+            ],
+            [
+              -1.51661217212677,
+              48.25673778153083
+            ],
+            [
+              -1.5168964862823489,
+              48.25603060044397
+            ],
+            [
+              -1.516960859298706,
+              48.25600202726523
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Red"
+        },
+        "name": "zone 4 pair",
+        "description": "29 emplacements\nN° 300 à 356"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5168535709381106,
+              48.2560520303176
+            ],
+            [
+              -1.5165960788726807,
+              48.256148464637725
+            ],
+            [
+              -1.5160287916660309,
+              48.25738334360378
+            ],
+            [
+              -1.5162044763565066,
+              48.25741638044774
+            ],
+            [
+              -1.5168535709381106,
+              48.2560520303176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DodgerBlue"
+        },
+        "name": "zone 5 impair",
+        "description": "34 emplacements\nN°413 à 479"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5164136886596682,
+              48.2574806682991
+            ],
+            [
+              -1.516242027282715,
+              48.257441381288416
+            ],
+            [
+              -1.5156519412994385,
+              48.25850926292682
+            ],
+            [
+              -1.5158343315124514,
+              48.25855212058722
+            ],
+            [
+              -1.5164136886596682,
+              48.2574806682991
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "Purple"
+        },
+        "name": "zone 5 pair",
+        "description": "43 emplacements\nN° 358 à 442"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5162044763565066,
+              48.257419951997164
+            ],
+            [
+              -1.5156197547912598,
+              48.25848783408316
+            ],
+            [
+              -1.5154159069061282,
+              48.25843783341301
+            ],
+            [
+              -1.5160220861434939,
+              48.25738423649173
+            ],
+            [
+              -1.5162044763565066,
+              48.257419951997164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "_storage_options": {
+          "color": "DeepSkyBlue"
+        },
+        "name": "zone 6 impair",
+        "description": "33 emplacements\nN°481 à 545"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5150994062423708,
+              48.25954855106262
+            ],
+            [
+              -1.5156546235084536,
+              48.25850926292682
+            ],
+            [
+              -1.5158289670944216,
+              48.25855747779223
+            ],
+            [
+              -1.5152710676193237,
+              48.259584265056034
+            ],
+            [
+              -1.5150994062423708,
+              48.25954855106262
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "zone 6 pair",
+        "description": "27 emplacements\nN°444 à 496"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.5150511264801028,
+              48.25952355125236
+            ],
+            [
+              -1.5148633718490603,
+              48.25948426581157
+            ],
+            [
+              -1.5151798725128176,
+              48.25886998044698
+            ],
+            [
+              -1.5154132246971133,
+              48.258443190630004
+            ],
+            [
+              -1.515617072582245,
+              48.25850033424304
+            ],
+            [
+              -1.5150511264801028,
+              48.25952355125236
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
